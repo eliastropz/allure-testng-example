@@ -44,4 +44,4 @@ Dentro do repositório, associe a branche ```gh_pages``` para servir de página 
 - Maven
 - Git
 - GitHub Actions
-- Conventional Commits
+- Conventional Commits.
